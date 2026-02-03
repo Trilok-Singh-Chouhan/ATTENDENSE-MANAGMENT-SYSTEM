@@ -67,14 +67,14 @@ Attendance-Management-System/
 ## Building real-world menu-driven applications
 ### Future Enhancements
 
-### Login system (Admin / Teacher)
+ Login system (Admin / Teacher)
 
-### Monthly & yearly attendance reports
+Monthly & yearly attendance reports
 
-### CSV export
+CSV export
 
 
-##Subject-wise attendance
+Subject-wise attendance
 # Author
 
 Trilok Singh Chouhan
