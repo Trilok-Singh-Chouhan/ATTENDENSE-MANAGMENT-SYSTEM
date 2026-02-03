@@ -1,24 +1,24 @@
 # ATTENDENSE-MANAGMENT-SYSTEM
-# 📘 Attendance Management System (C++)
+#  Attendance Management System (C++)
 
 A **console-based Attendance Management System** developed in **C++** using **Object-Oriented Programming** and **File Handling** concepts.  
 This project allows users to **add students**, **mark attendance by date**, and **view attendance reports** with **Present (%) and Absent (%)**.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ➕ Add new students (Roll Number & Name)
-- 📝 Mark attendance for each student (Present / Absent)
-- 📅 Attendance stored with date
-- 📊 Attendance report with percentage calculation
-- 💾 Persistent storage using text files
-- 📋 Menu-driven console interface
-- ❌ No external libraries (uses only standard C++)
+-  Add new students (Roll Number & Name)
+-  Mark attendance for each student (Present / Absent)
+-  Attendance stored with date
+-  Attendance report with percentage calculation
+-  Persistent storage using text files
+-  Menu-driven console interface
+-  No external libraries (uses only standard C++)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language:** C++
 - **Concepts Used:**
@@ -30,7 +30,7 @@ This project allows users to **add students**, **mark attendance by date**, and 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Attendance-Management-System/
 │
@@ -41,42 +41,41 @@ Attendance-Management-System/
 
 ---
 
-## 🧠 How the System Works
+##  How the System Works
 
-### 1️⃣ Add Student
+###  Add Student
 - Stores roll number and name in `students.txt`
 - Example:
 
-### 2️⃣ Mark Attendance
+###  Mark Attendance
 - User enters date
 - Attendance marked individually as **Present (P)** or **Absent (A)**
 - Stored in `attendance.txt`
 - Example:
 
-### 3️⃣ View Attendance
+###  View Attendance
 - Reads student and attendance files
 - Calculates:
-Learning Outcomes
+#Learning Outcomes
 
-Hands-on experience with file handling
+## Hands-on experience with file handling
 
-Practical understanding of OOP in C++
+## Practical understanding of OOP in C++
 
-Manual string parsing
+## Manual string parsing
 
-Building real-world menu-driven applications
-🚀 Future Enhancements
+## Building real-world menu-driven applications
+### Future Enhancements
 
-Login system (Admin / Teacher)
+## Login system (Admin / Teacher)
 
-Monthly & yearly attendance reports
+##Monthly & yearly attendance reports
 
-CSV export
+##CSV export
 
-GUI-based version
 
-Subject-wise attendance
-👤 Author
+##Subject-wise attendance
+# Author
 
 Trilok Singh Chouhan
-C++ | Linux | File Handling | OOP
+C++ | Linux | File Handling | OOP | C
